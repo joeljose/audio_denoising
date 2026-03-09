@@ -40,7 +40,7 @@ This denoising algorithm was effective in extracting out the signal from the noi
 
 ## Follow Me
 
-<a href="https://twitter.com/joelk1jose" target="_blank"><img src="assets/tw.png" width="30"></a>
+<a href="https://x.com/joelk1jose" target="_blank"><img src="assets/x.png" width="30"></a>
 <a href="https://github.com/joeljose" target="_blank"><img src="assets/gthb.png" width="30"></a>
 <a href="https://www.linkedin.com/in/joel-jose-527b80102/" target="_blank"><img src="assets/lnkdn.png" width="30"></a>
 
